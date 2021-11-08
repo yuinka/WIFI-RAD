@@ -1,0 +1,9 @@
+Implementasi
+(Implementation)
+Pada tahapan ini semua rancangan yang telah di buat akan di implementasikan kedalam sebuah aplikasi yang nantinya akan digunakan untuk mempermudah pengguna (user) dalam melakukan pemesanan pada aplikasi Sewa Wifi. Aplikasi ini harus mengikuti alur perancangan yang telah di buat sebelumnya agar dapat meminimalisir kesalahan dalam pembuatan aplikasi, adapun bahasa pemrograman yang di gunakan dalam membangun aplikasi ini yaitu PHP. Adapun proses implementasinya berikut adalah penjabarannya: 
+
+![mdpl 1](https://user-images.githubusercontent.com/73601211/140753215-20ac9562-ef53-428c-961c-f4dc4c90bb11.png)
+
+![mdpl 2](https://user-images.githubusercontent.com/73601211/140753420-ead04b14-3f71-4b84-8d98-67538a1526fc.png)
+
+Pada tahap pertama yang di jabarkan pada tabel di atas, yaitu tabel pembangunan fitur user serta pembangunan fitur admin, di dalam proses tersebut masih ditemukan beberapa bug pada fiturnya, mulai dari fitur melakukan pemesanan yang terdapat pada fitur user tidak berjalan sesuai fungsinya dan fitur invoice email yang isi dari invoice tersebut berupa teks saja.
