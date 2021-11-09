@@ -38,6 +38,3 @@ a.	Pengujian Blackbox Dari Sisi User
 b.	Pengujian Blackbox Dari Sisi Admin
 
 	Begitu juga pengujian fitur pada sisi Admin, semua fiturnya berjalan sesuai fungsinya seperti penjelasan pada tabel di atas.
-
-
-
