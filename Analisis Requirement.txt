@@ -1,0 +1,56 @@
+Rencana Kebutuhan (Requirements Planning)
+
+Pada tahap pertama, User dan penganalisis akan bertemu untuk mengidentifikasi tujuan dibangunnya aplikasi, berupa interaksi yang dilakukan untuk 
+mendapatkan informasi aplikasi yang di inginkan setiap User. Seorang sistem analis akan menggali informasi sebanyak-banyaknya dari user untuk mendapatkan 
+masukan sehingga akan tercipta sebuah aplikasi yang bisa melakukan tugas-tugas yang diinginkan oleh user tersebut. Tahapan ini akan menghasilkan dokumen 
+user requirement atau bisa dikatakan sebagai data yang berhubungan dengan keinginan user dalam pembuatan sistem. Dokumen ini yang akan menjadi acuan system 
+agar aplikasi yang dijalankan tidak memiliki kendala dalam pengoperasiannya. Berikut adalah fitur yang dibutuhkan di dalam sebuah aplikasi Beli Voucher 
+Wifi yang di bangun oleh peneliti:
+
+Aplikasi Beli Voucher Wifi - Admin
+Fitur:
+1.	Login
+2.	Menambahkan, mengedit, dan menghapus menu paket
+3.	Melihat dan memilih menu paket
+4.	Mengelola menu pesanan (Konfirmasi)
+5.	Mengedit dan menghapus data user
+6.	Melihat Data
+7.	Melihat Laporan
+8.	Logout
+
+Aplikasi Beli Voucher Wifi - User
+Fitur:
+1.	Register / Daftar akun
+2.	Login
+3.	Melihat dan memilih menu paket
+4.	Melakukan pemesanan
+5.	Melakukan pembayaran
+6.	Mengedit Data User
+7.	Melihat Data User
+8.	Melihat Laporan
+9.	Logout
+
+Untuk mendukung sistem aplikasi Pembelian Voucher Wifi berbasis Web, perlu dukungan dari sisi hardware dan software yang memadai, sehingga pengembangan sistem 
+yang akan dilakukan dapat menghasilkan sistem yang sesuai dengan kebutuhan yang ada. 
+
+1.	Kebutuhan Hardware (Perangkat Keras) Perangkat komputer yang di gunakan dalam penelitian ini sebagai berikut : 
+    a.	Processor : Intel Core i3 CPU 1.7 Ghz
+    b.	HDD       : 500GB 
+    c.	VGA       : NVIDIA Geforce 930m 1GB 
+    d.	RAM       : 2GB 
+    e.	Layar     : 14 inc 
+
+
+2.	Kebutuhan Software (Perangkat Lunak) Adapun perangkat lunak yang digunakan dalam penelitian ini antara lain : 
+    a.	Microsoft visio professional 2013 
+    b.	Android Studio 
+    c.	Mysql 
+    d.	Xampp 
+    e.	Visual Studio Code
+    f.	Windows 
+
+Proses Desain Pada tahap ini peneliti akan melakukan proses desain dan melakukan perbaikan apabila ada ketidak sesuainan desain yang di buat dengan apa yang di 
+butuhkan oleh pihak User(pengguna), dalam tahap ini peran User sangat dibutuhkan dalam pembuatan aplikasi ini karena akan sangat membantu peneliti untuk membangun 
+aplikasi yang di inginkan semua pihak, entah dari pihak operator Sistem ataupun pihak User, Peneliti akan memberikan sebuah pertanyaan mengenai fitur ataupun desain 
+dari aplikasi yang akan di jawab oleh User sehingga menghasilkan tanggapan atau masukan yang nantinya akan di perbaiki oleh peneliti, maka proses pengembangan suatu 
+system dapat tercapai dengan waktu yang sangat cepat.
