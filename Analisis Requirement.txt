@@ -45,9 +45,9 @@ yang akan dilakukan dapat menghasilkan sistem yang sesuai dengan kebutuhan yang 
 
 2.	Kebutuhan Software (Perangkat Lunak) Adapun perangkat lunak yang digunakan dalam penelitian ini antara lain : 
     a.	Microsoft visio professional 2013 
-    b.	Android Studio 
-    c.	Mysql 
-    d.	Xampp 
-    e.	Visual Studio Code
-    f.	Windows 
+    b.	Mysql 
+    c.	Xampp 
+    d.	Visual Studio Code
+    e.	Figma
+    
 
