@@ -1,0 +1,43 @@
+Implementasi
+(Implementation)
+Pada tahapan ini semua rancangan yang telah di buat akan di implementasikan kedalam sebuah aplikasi yang nantinya akan digunakan untuk mempermudah pengguna (user) 
+dalam melakukan pemesanan pada aplikasi Sewa Wifi. Aplikasi ini harus mengikuti alur perancangan yang telah di buat sebelumnya agar dapat meminimalisir kesalahan 
+dalam pembuatan aplikasi, adapun bahasa pemrograman yang di gunakan dalam membangun aplikasi ini yaitu PHP. Adapun proses implementasinya terdiri dari tiga tahapan,
+berikut adalah penjabarannya: 
+
+Pada tahap pertama yang di jabarkan pada tabel di atas, yaitu tabel pembangunan fitur user serta pembangunan fitur admin, di dalam proses tersebut masih ditemukan
+beberapa bug pada fiturnya, mulai dari fitur melakukan pemesanan yang terdapat pada fitur user tidak berjalan sesuai fungsinya dan fitur invoice email yang isi dari
+invoice tersebut berupa teks saja.
+
+Gambaran Umum Sistem
+Rancangan proses berkaitan dengan bagaimana aplikasi akan berjalan, proses – proses yang akan terjadi dalam aplikasi tersebut, bagaimana proses – proses tersebut 
+saling berkaitan dalam aplikasi. Proses perlu dikonsep dengan matang agar aplikasi dapat berjalan dengan baik dan sesuai harapan. Secara keseluruhan, pembuatan
+sistem pada aplikasi ini melalui beberapa tahap yaitu diantaranya sebagai berikut :
+
+Pada gambar dapat dijelaskan sebagai berikut : 
+1. User menggunakan aplikasi untuk mencari dan memesan wifi yang hendak disewa. 
+2. Data dari pemesanan tersebut masuk dan tersimpan ke dalam database. 
+3. Data User yang tersimpan di dalam database akan di tampilkan ke User dan web server. 
+4. Dari Web server pihak admin akan melakukan validasi pemesanan yang dilakukan oleh User dan akan di simpan proses validasinya kedalam database. 
+5. Data validasi yang tersimpan di database tersebut akan di tampilkan pada web server dan User. 
+6. Admin dapat memperbarui data melalui web server.
+
+Analisa
+Dalam tahapan ini akan dilakukan analisa untuk mengetahui hasil dari implementasi RAD terhadap aplikasi yang akan dibangun. Untuk mengetahui hasil dari analisis,
+sebelumnya dilakukanlah pengujian aplikasi menggunakan metode black box, adapun analisis yang diteliti didalam implementasi RAD adalah meliputi segi kecepatan dan
+penggunaan komponen kembali, Kecepatan yang dimaksud meliputi lama dan tidaknya proses pembangunan aplikasi, sedangkan reuseable itu digunakan untuk mengetahui 
+kode program yang bisa digunakan kembali.
+
+IMPLEMENTASI
+Pada tahap ini peneliti akan mengimplementasikan RAD model pada aplikasi Sewa Wifi, yang terdiri dari tiga tahapan, berikut adalah uraiannya :
+
+Requirements Planning
+Adapun beberapa fitur yang di butuhkan dalam aplikasi Sewa Wifi ini, akan di terapkan menggunakan metode blackbox sebagai berikut:
+a.	Pengujian Blackbox Dari Sisi User
+
+b.	Pengujian Blackbox Dari Sisi Admin
+
+	Begitu juga pengujian fitur pada sisi Admin, semua fiturnya berjalan sesuai fungsinya seperti penjelasan pada tabel di atas.
+
+
+
