@@ -51,8 +51,3 @@ yang akan dilakukan dapat menghasilkan sistem yang sesuai dengan kebutuhan yang 
     e.	Visual Studio Code
     f.	Windows 
 
-Proses Desain Pada tahap ini peneliti akan melakukan proses desain dan melakukan perbaikan apabila ada ketidak sesuainan desain yang di buat dengan apa yang di 
-butuhkan oleh pihak User(pengguna), dalam tahap ini peran User sangat dibutuhkan dalam pembuatan aplikasi ini karena akan sangat membantu peneliti untuk membangun 
-aplikasi yang di inginkan semua pihak, entah dari pihak operator Sistem ataupun pihak User, Peneliti akan memberikan sebuah pertanyaan mengenai fitur ataupun desain 
-dari aplikasi yang akan di jawab oleh User sehingga menghasilkan tanggapan atau masukan yang nantinya akan di perbaiki oleh peneliti, maka proses pengembangan suatu 
-system dapat tercapai dengan waktu yang sangat cepat.
