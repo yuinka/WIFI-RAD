@@ -1,13 +1,12 @@
 Rencana Kebutuhan (Requirements Planning)
 
-Pada tahap pertama, User dan penganalisis akan bertemu untuk mengidentifikasi tujuan dibangunnya aplikasi, berupa interaksi yang dilakukan untuk 
-mendapatkan informasi aplikasi yang di inginkan setiap User. Seorang sistem analis akan menggali informasi sebanyak-banyaknya dari user untuk mendapatkan 
-masukan sehingga akan tercipta sebuah aplikasi yang bisa melakukan tugas-tugas yang diinginkan oleh user yaitu Aplikasi beli voucher wifi. Aplikasi beli 
-voucher wifi adalah sebuah aplikasi yang melayani penjualan Voucher wifi yang berfungsi sebagai tiket masuk untuk bisa memakai internet di suatu lingkup 
-area, aplikasi ini memudahkan penggunannya untuk membeli voucher dengan berbagai paket mulai dari paket, per jam, per hari, per minggu, per bulan bahkan per 
-tahun dengan cepat tanpa harus datang ke tempatnya langsung,  pemakaian ditentukan berdasarkan paket yang kita pilih tanpa ada batasan maksimal pemakain, 
-Masa berlaku vocer dihitung setelah voucher digunakan, Voucher akan hangus otomatis apabila masa berlaku voucher habis. Berikut adalah fitur yang dibutuhkan 
-di dalam sebuah aplikasi Beli Voucher Wifi yang di bangun oleh peneliti:
+Pada tahap ini dilakukan pertemuan antara user dengan tim sistem analis yang dilakukan untuk mendapatkan informasi aplikasi yang di inginkan setiap User. 
+Seorang sistem analis akan menggali informasi sebanyak-banyaknya dari user untuk mendapatkan masukan sehingga akan tercipta sebuah aplikasi yang bisa 
+melakukan tugas-tugas yang diinginkan oleh user yaitu Aplikasi beli voucher wifi. Aplikasi beli voucher wifi adalah sebuah aplikasi yang melayani penjualan 
+Voucher wifi yang berfungsi sebagai tiket masuk untuk bisa memakai internet di suatu lingkup area, aplikasi ini memudahkan penggunannya untuk membeli voucher 
+dengan berbagai paket mulai dari paket, per jam, per hari, per minggu, per bulan bahkan per tahun dengan cepat tanpa harus datang ke tempatnya langsung,  
+pemakaian ditentukan berdasarkan paket yang kita pilih tanpa ada batasan maksimal pemakain, Masa berlaku vocer dihitung setelah voucher digunakan, Voucher akan 
+hangus otomatis apabila masa berlaku voucher habis. Berikut adalah fitur yang dibutuhkan di dalam sebuah aplikasi Beli Voucher Wifi yang di bangun oleh peneliti:
 
 Aplikasi Beli Voucher Wifi - Admin
 Fitur:
